@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- device specific things -->
+<project name="Flame-Lab-begonia/android_device_xiaomi_begonia" path="device/xiaomi/begonia" remote="github" revision="lineage-17.1" />
+<project name="Flame-Lab-begonia/android_kernel_redmi_mt6785" path="kernel/xiaomi/mt6785" remote="github" revision="halium"/>
+</manifest>
